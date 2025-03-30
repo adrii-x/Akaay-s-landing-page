@@ -1,69 +1,55 @@
-# Welcome to your Lovable project
 
-## Project info
+# Akaay Foundation - Landing Page
 
-**URL**: https://lovable.dev/projects/0f220e5f-fb6b-4f0e-aded-d2ba7e7afc64
+A modern, responsive landing page for the Akaay Foundation, an Indian humanitarian organization. The design is inspired by Hive School's minimalist and bold aesthetic, featuring a dark theme with blue accents and gold highlights.
 
-## How can I edit this code?
+## Project Overview
 
-There are several ways of editing your application.
+This landing page showcases the Akaay Foundation's mission, services, and impact in a visually striking way. It includes several sections:
 
-**Use Lovable**
+- **Navigation Bar**: Sticky navigation with links to all sections
+- **Hero Section**: Bold headline with CTA buttons
+- **About Us**: Overview of the foundation's mission, vision, and values
+- **Services**: Highlighting the foundation's key services
+- **Why Us**: Features that set the foundation apart
+- **Contact**: Contact form and information
+- **Footer**: Additional links and information
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0f220e5f-fb6b-4f0e-aded-d2ba7e7afc64) and start prompting.
+## Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
 - React
-- shadcn-ui
-- Tailwind CSS
+- Tailwind CSS for styling
+- Shadcn UI components
+- Lucide React for icons
+- Form validation
 
-## How can I deploy this project?
+## Features
 
-Simply open [Lovable](https://lovable.dev/projects/0f220e5f-fb6b-4f0e-aded-d2ba7e7afc64) and click on Share -> Publish.
+- Responsive design for all device sizes
+- Dark theme with blue and gold accents
+- Animated elements for enhanced user experience
+- Contact form with validation
+- Smooth scrolling navigation
 
-## I want to use a custom domain - is that possible?
+## Setup Instructions
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+1. Clone the repository
+2. Install dependencies with `npm install`
+3. Start the development server with `npm run dev`
+4. Access the site at `http://localhost:8080`
+
+## Customization
+
+The site can be further customized by:
+
+- Updating the color scheme in `tailwind.config.ts`
+- Adding or modifying sections in the `components` directory
+- Changing content in each component file
+
+## Credits
+
+Designed & Developed by Adrian Okonkwo
+
+## License
+
+All rights reserved. © Akaay Foundation 2023.
