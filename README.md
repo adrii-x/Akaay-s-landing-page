@@ -34,7 +34,7 @@ This landing page showcases the Akaay Foundation's mission, services, and impact
 
 ## Setup Instructions
 
-1. Clone the repository
+1. Clone the repository: visit `https://github.com/adrii-x/warm-heart-hub`
 2. Install dependencies with `npm install`
 3. Start the development server with `npm run dev`
 4. Access the site at `http://localhost:8080`
