@@ -1,7 +1,7 @@
 
 # Akaay Foundation - Landing Page
 
-A modern, responsive landing page for the Akaay Foundation, an Indian humanitarian organization. The design is inspired by Hive School's minimalist and bold aesthetic, featuring a dark theme with blue accents and gold highlights.
+A modern, responsive landing page for the Akaay Foundation, an Indian humanitarian organization. The design features a minimalist and bold aesthetic with a dark theme, blue accents, and gold highlights.
 
 ## Project Overview
 
@@ -19,6 +19,7 @@ This landing page showcases the Akaay Foundation's mission, services, and impact
 
 - React
 - Tailwind CSS for styling
+- Framer Motion for animations
 - Shadcn UI components
 - Lucide React for icons
 - Form validation
@@ -26,7 +27,7 @@ This landing page showcases the Akaay Foundation's mission, services, and impact
 ## Features
 
 - Responsive design for all device sizes
-- Dark theme with blue and gold accents
+- Dark/light theme toggle with state persistence
 - Animated elements for enhanced user experience
 - Contact form with validation
 - Smooth scrolling navigation
@@ -45,10 +46,6 @@ The site can be further customized by:
 - Updating the color scheme in `tailwind.config.ts`
 - Adding or modifying sections in the `components` directory
 - Changing content in each component file
-
-## Credits
-
-Designed & Developed by Adrian Okonkwo
 
 ## License
 
